@@ -1,6 +1,6 @@
 # Movie Download Site Clone
 
-This is my first ever Project which I made to practic # HTML & CSS  <br>
+This is my first ever Project which I made to practice # HTML & CSS  <br>
 
 This site consist # My favorite <br>
  Movies <br>
