@@ -3,7 +3,7 @@
 This is my first ever Project in which I made to practic HTML & CSS  <br>
 
 This site consist my favorite <br>
-# Mvies
+# Movies
 # Series
 # Anime 
 
