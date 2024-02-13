@@ -1,8 +1,12 @@
-# The_Game_Rock_Paper_Scissors
+# Movie Download Site Clone
 
-This is my second Project in which I used <br>
-HTML <br>
-CSS <br>
-Java Script <br>
-Its a basic Rock-Paper-Scissors game <br>
+This is my first ever Project in which I made to practic HTML & CSS  <br>
+
+This site consist my favorite <br>
+# Mvies
+# Series
+# Anime 
+
+This Clone is inspired by 
+# MoviesMod and VegaMovies
 lets learn more 
